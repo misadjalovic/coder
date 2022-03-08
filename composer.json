@@ -15,5 +15,11 @@
             "email": "misadjalovic@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/misadjalovic/coder.git"
+        }
+    ]
 }

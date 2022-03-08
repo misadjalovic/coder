@@ -1,7 +1,6 @@
 {
     "name": "misadjalovic/coder",
     "description": "Generate your code",
-    "type": "project",
     "autoload": {
         "psr-4": {
             "Tests\\": "tests/",
@@ -16,7 +15,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "laravel/framework": "^9.2"
+    },
     "repositories": [
         {
             "type": "vcs",

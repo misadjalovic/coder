@@ -4,12 +4,22 @@ Coder helps you by generating random strings.
 
 ## Installation
 
-Use the package manager [composer](https://getcomposer.org/) to install coder.
+Add to your project's composer.json file.
 
 ```bash
-composer require misadjalovic/coder
+ "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/misadjalovic/coder.git"
+        }
+    ],
+    
 ```
+Add require the package.
 
+```bash
+ "misa/djalovic" : "dev"
+```
 ## Usage
 
 ```php

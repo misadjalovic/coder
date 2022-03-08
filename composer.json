@@ -17,11 +17,5 @@
     "minimum-stability": "dev",
     "require": {
         "laravel/framework": "^9.2"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:misadjalovic/coder.git"
-        }
-    ]
+    }
 }

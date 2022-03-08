@@ -1,0 +1,19 @@
+{
+    "name": "misadjalovic/coder",
+    "description": "Generate your code",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tests\\": "tests/",
+            "App\\": "app/",
+            "Misadjalovic\\Coder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "misadjalovic",
+            "email": "misadjalovic@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -15,6 +15,7 @@
             "email": "misadjalovic@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "repositories": [
         {

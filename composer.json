@@ -20,7 +20,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/misadjalovic/coder.git"
+            "url":  "git@github.com:misadjalovic/coder.git"
         }
     ]
 }
